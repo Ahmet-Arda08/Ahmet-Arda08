@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Arda!
 
-🌱 Yazılım geliştirme yolculuğumda .NET Core, C#, JavaScript, Python ve SQL üzerine çalışıyorum.  
+🌱 Yazılım geliştirme yolculuğumda .NET Core, C#, JavaScript, Python ve SQL üzerine başlangıç seviyede bilgi sahibiyim 
 💻 Web geliştirme, API tasarımı ve MVC mimarisiyle ilgileniyorum.  
 📚 Öğrenmeye devam ettiğim konular: ASP.NET Core, Entity Framework ve SQL veritabanı yönetimi.  
 🚀 Hedefim: Full Stack Developer olmak.
